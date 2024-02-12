@@ -81,4 +81,4 @@ M. Similarly, I edited the sshd_config file and set to disable root login for SS
 PermitRootLogin no
 ```
 
-...and all done!! See you in the next one!
+...and all done!! See you in the next one! 👋🏾
